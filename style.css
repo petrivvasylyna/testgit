@@ -1,0 +1,21 @@
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing:border-box;
+}
+
+body{
+	width:100vh;
+	height:100vh;
+	background:linear-gradient(to right,#e6dada,#274646);
+	font-size:40px;
+	text-align:center;
+	display: flex;
+	flex-flow: column wrap;
+	justify-content: center;
+	align-items: center;
+	color:#fff;
+	font-family: cursive;
+	
+	
+}
